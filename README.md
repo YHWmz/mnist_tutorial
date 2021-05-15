@@ -1,5 +1,12 @@
-# 作业结果汇总
+# Homework 2 MNIST 手写数字识别 
 
+## 环境
+* python 3.7.7
+* sklearn 0.22.1
+* pytorch 1.7.1
+* torchvision 0.8.2 
+
+## 结果
 深度学习作业题中，选择使用的是pytorch框架。结果如下
  Quesion |train_accuracy|test_accuracy
  ----| ---- | ---- 
