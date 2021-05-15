@@ -1,5 +1,6 @@
 # 作业结果汇总
 
+深度学习作业题中，选择使用的是pytorch框架。结果如下
  Quesion |train_accuracy|test_accuracy
  ----| ---- | ---- 
  Q1 | 97.40% | 88.60% 
